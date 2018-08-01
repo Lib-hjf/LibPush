@@ -24,6 +24,6 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:26.1.0'
 
-//    api project(':out-lib-logx:liblogx') // 本地开发
-    api 'com.github.Lib-hjf:LibLogX:0.2.0' // 上传 github
+    implementation project(':out-lib-util:libutil') // 本地开发
+//    api 'com.github.Lib-hjf:LibUtil:0.2.0' // 发版本
 }
