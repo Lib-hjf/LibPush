@@ -4,7 +4,7 @@ import android.text.TextUtils;
 
 import org.hjf.kaconnect.OnConnectStatusChangedListener;
 import org.hjf.kaconnect.OnReceiveDataListener;
-import org.hjf.util.log.LogUtil;
+import org.hjf.log.LogUtil;
 
 import java.net.InetAddress;
 import java.nio.ByteBuffer;

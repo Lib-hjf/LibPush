@@ -3,7 +3,7 @@ package org.hjf.kaconnect.nio;
 import android.support.annotation.NonNull;
 
 import org.hjf.kaconnect.OnReceiveDataListener;
-import org.hjf.util.log.LogUtil;
+import org.hjf.log.LogUtil;
 
 
 import java.io.IOException;
