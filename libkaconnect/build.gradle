@@ -25,5 +25,5 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:26.1.0'
 
     implementation project(':out-lib-util:libutil') // 本地开发
-//    api 'com.github.Lib-hjf:LibUtil:1.1.4' // 发版本
+//    api 'com.github.Lib-hjf:LibUtil:1.2.0' // 发版本
 }
